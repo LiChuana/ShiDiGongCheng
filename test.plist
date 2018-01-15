@@ -33,7 +33,7 @@
                 <key>metadata</key>  
                 <dict>  
                     <key>update-url</key>  
-                    <string>https://xxxx</string>  
+                    <string>https://raw.githubusercontent.com/LiChuana/ShiDiGongCheng/master/test.plist</string>  
                     <key>bundle-identifier</key>  
                     <string>com.VisoLink.ConstructionQuality</string>  
                     <key>bundle-version</key>  
